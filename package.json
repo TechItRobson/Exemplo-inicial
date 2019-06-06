@@ -1,0 +1,22 @@
+{ 
+  "name": "server",
+  "version": "1.0.0",
+  "description": "servidor backend socialmedia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "socialmedia"
+  ],
+  "author": "Robson Barbosa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "mongodb": "^2.2.10",
+    "mongoose": "^5.5.12"
+  }
+}
